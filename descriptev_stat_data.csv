@@ -1,0 +1,24 @@
+"","Variable","Statistic","Value"
+"1","subject_id","Mean",30.5
+"2","subject_id","Standard Deviation",17.464249196573
+"3","subject_id","Minimum",1
+"4","subject_id","Maximum",60
+"5","age","Mean",38.2166666666667
+"6","age","Standard Deviation",12.3468127591996
+"7","age","Minimum",18
+"8","age","Maximum",60
+"Female","gender","Level: Female",26
+"Male","gender","Level: Male",18
+"Other","gender","Level: Other",16
+"11","mean_RT","Mean",2676.64339350148
+"12","mean_RT","Standard Deviation",1817.48129184206
+"13","mean_RT","Minimum",202.180685615167
+"14","mean_RT","Maximum",5982.60495858267
+"15","depression","Mean",51.455513733672
+"16","depression","Standard Deviation",29.4285728991513
+"17","depression","Minimum",1.09997557010502
+"18","depression","Maximum",97.9139567352831
+"19","sleep_duration","Mean",7.10096463110919
+"110","sleep_duration","Standard Deviation",2.75664468355917
+"111","sleep_duration","Minimum",2.21601607324556
+"112","sleep_duration","Maximum",11.808832325507

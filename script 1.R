@@ -1,0 +1,17 @@
+library(tidyverse)
+source ("functions.R")
+
+#### CREATE DATAFRAME ----
+
+#generate vectors
+N = 60
+analysis = data.frame(
+  subject_id = 1:N,
+  age = sample(18:60, N, replace = TRUE),
+  gender = factor(sample(c("Male", "Female", "Other"), N, replace = TRUE)),
+  mean_RT = runif(N, 200 , 6000),
+  depression = runif(N, 0 , 100),
+  sleep_duration = runif(N, 2 , 12))
+
+#check the function
+descriptev_stat (analysis, 1, 60)
